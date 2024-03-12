@@ -7,4 +7,12 @@ In this project the data used is udemy dataset from kaggle and analyzed using SQ
 SQL server management studio
 
 ## Project walk through
+<p align="center">
+Number of courses in each level
+
+ <p align="center">
+ Top 10 courses with most to least subscribers 
+
+ <p align="center">
+Number of paid and unpaid courses
 
