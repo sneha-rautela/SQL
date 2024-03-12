@@ -9,10 +9,13 @@ SQL server management studio
 ## Project walk through
 <p align="center">
 Number of courses in each level
+<image src="sql4.png"/> 
 
  <p align="center">
  Top 10 courses with most to least subscribers 
+<image src="sql2.png"/> 
 
  <p align="center">
 Number of paid and unpaid courses
+<image src="sql3.png"/> 
 
